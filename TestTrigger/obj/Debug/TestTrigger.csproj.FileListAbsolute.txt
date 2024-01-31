@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\TestTrigger\TestTrigger\bin\Debug\TestTrigger.exe.config
+C:\Users\legen\source\repos\TestTrigger\TestTrigger\bin\Debug\TestTrigger.exe
+C:\Users\legen\source\repos\TestTrigger\TestTrigger\bin\Debug\TestTrigger.pdb
+C:\Users\legen\source\repos\TestTrigger\TestTrigger\obj\Debug\TestTrigger.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\TestTrigger\TestTrigger\obj\Debug\TestTrigger.Form1.resources
+C:\Users\legen\source\repos\TestTrigger\TestTrigger\obj\Debug\TestTrigger.Properties.Resources.resources
+C:\Users\legen\source\repos\TestTrigger\TestTrigger\obj\Debug\TestTrigger.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\TestTrigger\TestTrigger\obj\Debug\TestTrigger.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\TestTrigger\TestTrigger\obj\Debug\TestTrigger.exe
+C:\Users\legen\source\repos\TestTrigger\TestTrigger\obj\Debug\TestTrigger.pdb
